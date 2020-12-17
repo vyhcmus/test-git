@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Customer>
+	<Employee>
+		<EmployeeID>1</EmployeeID>
+		<EmployeeName>An</EmployeeName>
+		<Email>an@gmail.com</Email>
+		<Birthday>1/1/1998 12:00:00 AM</Birthday>
+		<Age>21</Age>
+		<Type>BOD</Type>
+	</Employee>
+	<Employee>
+		<EmployeeID>2</EmployeeID>
+		<EmployeeName>Anna</EmployeeName>
+		<Email>anna@gmail.com</Email>
+		<Birthday>1/1/1998 12:00:00 AM</Birthday>
+		<Age>21</Age>
+		<Type>Leader</Type>
+	</Employee>
+	<Employee>
+		<EmployeeID>3</EmployeeID>
+		<EmployeeName>Su</EmployeeName>
+		<Email>su@gmail.com</Email>
+		<Birthday>1/1/1999 12:00:00 AM</Birthday>
+		<Age>20</Age>
+		<Type>staff</Type>
+	</Employee>
+	<Employee>
+		<EmployeeID>4</EmployeeID>
+		<EmployeeName>Susu</EmployeeName>
+		<Email>susu@gmail.com</Email>
+		<Birthday>1/1/1999 12:00:00 AM</Birthday>
+		<Age>20</Age>
+		<Type>staff</Type>
+	</Employee>
+	<Employee>
+		<EmployeeID>6</EmployeeID>
+		<EmployeeName>Vy</EmployeeName>
+		<Email>vy@gmail.com</Email>
+		<Birthday>1/1/1998 12:00:00 AM</Birthday>
+		<Age>20</Age>
+		<Type>staff</Type>
+	</Employee>
+	<Employee>
+		<EmployeeID>7</EmployeeID>
+		<EmployeeName>Duyen</EmployeeName>
+		<Email>duyen@gmail.com</Email>
+		<Birthday>7/8/2000 12:00:00 AM</Birthday>
+		<Age>19</Age>
+		<Type>staff</Type>
+	</Employee>
+	<Employee>
+		<EmployeeID>8</EmployeeID>
+		<EmployeeName>oanh</EmployeeName>
+		<Email>oanh@gmail.com</Email>
+		<Birthday>7/9/2000 12:00:00 AM</Birthday>
+		<Age>19</Age>
+		<Type>staff</Type>
+	</Employee>
+	<Employee>
+		<EmployeeID>9</EmployeeID>
+		<EmployeeName>Ha</EmployeeName>
+		<Email>haha@gmail.com</Email>
+		<Birthday>7/8/2000 12:00:00 AM</Birthday>
+		<Age>19</Age>
+		<Type>staff</Type>
+	</Employee>
+	<Employee>
+		<EmployeeID>10</EmployeeID>
+		<EmployeeName>Long</EmployeeName>
+		<Email>long@gmail.com</Email>
+		<Birthday>1/1/1998 12:00:00 AM</Birthday>
+		<Age>21</Age>
+		<Type>staff</Type>
+	</Employee>
+	<Employee>
+		<EmployeeID>11</EmployeeID>
+		<EmployeeName>Lan</EmployeeName>
+		<Email>lan@gmail.com</Email>
+		<Birthday>7/8/2000 12:00:00 AM</Birthday>
+		<Age>19</Age>
+		<Type>staff</Type>
+	</Employee>
+</Customer>
